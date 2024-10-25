@@ -1,0 +1,5 @@
+{
+    "drug_a,drug_b": "Increased risk of toxicity",
+    "drug_c,drug_d": "Reduced effectiveness",
+    "drug_a,drug_c": "Prolonged QT interval"
+}
